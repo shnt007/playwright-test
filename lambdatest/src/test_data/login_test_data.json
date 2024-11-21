@@ -1,0 +1,10 @@
+{
+    "valid_data": {
+        "email": "abcdefghi@email.com",
+        "password": "Password@123"
+    },
+    "invalid_data": {
+        "email": "demo2@email.com",
+        "password": "P@ssword123"
+    }
+}
