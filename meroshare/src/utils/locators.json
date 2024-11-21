@@ -1,0 +1,10 @@
+{
+    "LoginPage": {
+        "dpDropdown": "span[id*='select']",
+        "searchDPField": "input[type='search']",
+        "dpLists": ".select2-results > ul > li",
+        "username": "input#username",
+        "password": "input#password",
+        "btnLogin": "button[type='submit']"
+    }
+}
