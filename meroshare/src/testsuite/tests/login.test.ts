@@ -1,5 +1,5 @@
 import { test, expect } from "../../utils/fixture"
-import * as data from "../data/test_data.json"
+import * as data from "../data/credentail.json"
 
 
 test.describe('Login', async () => {

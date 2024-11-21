@@ -3,5 +3,4 @@ node_modules/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
-/test_data.json/
-/data
+src/testsuite/data/
